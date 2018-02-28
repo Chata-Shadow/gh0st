@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CJ60Lib", "CJ60Lib.vcxproj", "{07CE70BD-53B5-C46E-6162-3576B09198F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CJ60StaticLib", "CJ60StaticLib.vcxproj", "{E648E865-795D-1331-4AA7-E03AB4CE4490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07CE70BD-53B5-C46E-6162-3576B09198F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07CE70BD-53B5-C46E-6162-3576B09198F5}.Debug|Win32.Build.0 = Debug|Win32
+		{07CE70BD-53B5-C46E-6162-3576B09198F5}.Release|Win32.ActiveCfg = Release|Win32
+		{07CE70BD-53B5-C46E-6162-3576B09198F5}.Release|Win32.Build.0 = Release|Win32
+		{07CE70BD-53B5-C46E-6162-3576B09198F5}.Template|Win32.ActiveCfg = Release|Win32
+		{07CE70BD-53B5-C46E-6162-3576B09198F5}.Template|Win32.Build.0 = Release|Win32
+		{E648E865-795D-1331-4AA7-E03AB4CE4490}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E648E865-795D-1331-4AA7-E03AB4CE4490}.Debug|Win32.Build.0 = Debug|Win32
+		{E648E865-795D-1331-4AA7-E03AB4CE4490}.Release|Win32.ActiveCfg = Release|Win32
+		{E648E865-795D-1331-4AA7-E03AB4CE4490}.Release|Win32.Build.0 = Release|Win32
+		{E648E865-795D-1331-4AA7-E03AB4CE4490}.Template|Win32.ActiveCfg = Template|Win32
+		{E648E865-795D-1331-4AA7-E03AB4CE4490}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
